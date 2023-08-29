@@ -1,6 +1,6 @@
 # Beaver Run
 Final Project for CS3
-Team Members (in order of surnames' initials): Zijun Deng; Yingying Gong; Junxuan Shen; Zhonghe Zheng
+\nTeam Members (in order of surnames' initials): Zijun Deng; Yingying Gong; Junxuan Shen; Zhonghe Zheng
 Mario-like game with beaver running with Caltech experience
 
 ## Where to Start

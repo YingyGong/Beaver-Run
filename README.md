@@ -3,7 +3,7 @@ Final Project for CS3
 Team Members (in order of surnames' initials): Zijun Deng; Yingying Gong; Junxuan Shen; Zhonghe Zheng
 Mario-like game with beaver running with Caltech experience
 
-## Where to start
+## Where to Start
 Please download the repository to your local, and run "make all" command to compile the codes.
 Then you will receive a link of the game.
 

@@ -39,3 +39,4 @@ Then you will receive a link of the game.
 - C: coffee. If the beaver gets some coffee, it will get one more life.  
 - D: offer. If the beaver gets an offer (internship), it can “attract” coins nearby for a short amount of time. Some coins may fly away from the beaver because it is the “tax” the beaver needs to pay, especially in scenes later. It makes sense because the more the beaver earns, higher tax it needs to pay. 
 
+Hope you enjoy the game : )
